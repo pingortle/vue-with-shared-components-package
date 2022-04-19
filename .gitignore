@@ -3,5 +3,7 @@
 
 *.log
 nuxt.d.ts
-.output
 .env
+
+/.output/*
+!/.output/public
