@@ -8,8 +8,10 @@ The components are in a package called `@lape/components` within a npm
 workspace at `./components`.
 
 The components package doesn't currently pull in any dependencies of its own
-but relies on the parent app to compile components to simplify this minimal
-example.
+but relies on the parent app to compile components. This approach is
+unrealistic, but helpful because this repo is focused on the integration
+between Vue and the components. Besides, bundlers are a dime a dozen these
+days. 😄
 
 Start a discussion! Let me know what you think.
 
