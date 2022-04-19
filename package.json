@@ -1,9 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "nuxi dev",
-    "build": "nuxi build",
-    "start": "node .output/server/index.mjs"
+    "start": "nuxi dev",
+    "build": "nuxi generate"
   },
   "devDependencies": {
     "nuxt3": "latest"
