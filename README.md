@@ -5,7 +5,7 @@
 Sample app is a minimal Nuxt app. All the code is in `./app.vue`.
 
 The components are in a package called `@lape/components` within a npm
-workspace at `./components`.
+workspace at `./workspaces/components`.
 
 The components package doesn't currently pull in any dependencies of its own
 but relies on the parent app to compile components. This approach is
