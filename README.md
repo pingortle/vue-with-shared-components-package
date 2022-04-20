@@ -13,6 +13,8 @@ unrealistic, but helpful because this repo is focused on the integration
 between Vue and the components. Besides, bundlers are a dime a dozen these
 days. 😄
 
+This is deployed as a pure frontend website at https://pingortle.github.io/vue-with-shared-components-package
+
 Start a discussion! Let me know what you think.
 
 ### Next steps
