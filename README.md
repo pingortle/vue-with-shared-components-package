@@ -33,6 +33,7 @@ popular in the Vue community such as `vite`. Then you need to change
 - Log into npm https://docs.npmjs.com/cli/v8/commands/npm-adduser
 - Publish a package https://docs.npmjs.com/cli/v8/commands/npm-publish
 - Take a look at what files are included in your package https://docs.npmjs.com/cli/v8/commands/npm-publish#files-included-in-package
+- _Really_ take a look at what files are included in your package https://docs.npmjs.com/cli/v8/commands/npm-pack
 
 ---
 
